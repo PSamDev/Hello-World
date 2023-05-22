@@ -1,2 +1,5 @@
 # Hello-World
-My first Github Repository
+First Github Repository
+Git and Github
+Creating branches
+
